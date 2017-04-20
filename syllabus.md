@@ -9,60 +9,63 @@ All original content is licensed under a Creative Commons Attribution 4.0 Intern
 
 [Credit hours]  
 [Days/times]   
-[Complete Academic Calendar]
-Location: BB 221
-Instructor: Patrick Masson
-Office location: BA 356 & teleconference
-Office hours: by appointment (please email me with at least 2 days notice)
-Contact information: pmasson@albany.edu
+[Complete Academic Calendar]  
+[Location: Room]  
+[Instructor: ]  
+[Office location:]  
+[Office hours:]  
+[Contact information: email, phone]  
 
-Course Goals
+## Course Goals
 
 Students will come to understand open source as a licensing model for software that harnesses the power of distributed peer review and transparency of process. Students will assess and understand the promise of open source as an approach for development and distribution, leading to higher quality, better reliability, more flexibility, lower cost, and an end to vendor lock-in. Students will be able to abstract and extend open source ideals on development and distribution in order to apply those principles and practices to other artifacts and disciplines.
 
-What will you now do that you could not do before?
+### What will you now do that you could not do before?
 
-    Summarize the rationale behind the criteria of the Open Source Definition.
-    Explain the benefits of open source licensed software in development practices.
-    Describe open source economic and business models.
-    Identify the values, principles, objectives and behaviors of a viable open source community of practice.
-    Authentically participate in an open source development community.
+* Summarize the rationale behind the criteria of the Open Source Definition.
+* Explain the benefits of open source licensed software in development practices.
+* Describe open source economic and business models.
+* Identify the values, principles, objectives and behaviors of a viable open source community of practice.
+* Authentically participate in an open source development community.
 
-What will you know?
+### What will you know?
 
-    The Open Source Definition.
-    The history and impact of the Free and Open Source Software movements.
-    An understanding of US copyright, patent and trademark laws and apply these concepts to the interpretation of software licenses.
-    Various open source economies and business models.
-    Tools and techniques for creating and managing open source communities of practice.
+* The Open Source Definition.
+* The history and impact of the Free and Open Source Software movements.
+* An understanding of US copyright, patent and trademark laws and apply these concepts to the interpretation of software licenses.
+* Various open source economies and business models.
+* Tools and techniques for creating and managing open source communities of practice.
 
-How will you now respond to information and/or solve problems related to software design, development and deployment?
+### How will you now respond to information and/or solve problems related to software design, development and deployment?
 
-    Review and scrutinize claims of open source projects related to licensing, governance and operations.
-    Assess the opportunities and constraints for participation in open source software projects through evidence of practice within the community.
-    Promote participation in open source projects through communication, transparency, self-organization, collaboration, evidence and merit.
-    Seek out solutions for open source projects based on simplicity, emergence, incremental and iterative design and feedback.
+* Review and scrutinize claims of open source projects related to licensing, governance and operations.
+* Assess the opportunities and constraints for participation in open source software projects through evidence of practice within the community.
+* Promote participation in open source projects through communication, transparency, self-organization, collaboration, evidence and merit.
+* Seek out solutions for open source projects based on simplicity, emergence, incremental and iterative design and feedback.
 
-Coordination
+## Coordination
 
 In this course, we will use XWiki, an open source wiki and social platform for information dissemination, collaboration, development and review. All information related to the course will be throughXWiki . This will include: assignments, announcements, forum discussion, evaluations, grades, etc.
-Readings
 
-Readings will be assigned from the following books.
-There is no need to buy any of the books, all the relevant sections are freely available online.
-Direct links will be made available in XWiki.
+## Readings
 
-The Cathedral and the Bazaar: Musing on Linux and Open Source by an Accidental Revolutionary
-Eric S. Raymond; O’Reilly (January, 2001).
+Readings will be assigned from the following books.  
+There is no need to buy any of the books, all the relevant sections are freely available online.  
+Direct links will be made available in XWiki.  
 
-Producing Open Source Software: How to Run a Successful Free Software Project
-Karl Fogel; Publisher: O’Reilly (October, 2005).
+[The Cathedral and the Bazaar: Musing on Linux and Open Source by an Accidental Revolutionary](http://shop.oreilly.com/product/9780596001087.do)  
+Eric S. Raymond; O’Reilly (January, 2001).  
 
-Other readings will be added as the semester progresses.
-Additional Materials
+Producing Open Source Software: How to Run a Successful Free Software Project  
+Karl Fogel; Publisher: O’Reilly (October, 2005).  
 
-    You will be participating in a current open project. Relevant accounts (email lists, wiki, etc.) will need to be created by all students. You may choose to create a unique identity specific to the course in order to protect your privacy.
-    We will use the open source wiki XWiki as the class management system. XWiki accounts will need to be created by all students.
+Other readings will be added as the semester progresses.  
+
+## Additional Materials  
+
+You will be participating in a current open project. Relevant accounts (email lists, wiki, etc.) will need to be created by all students. You may choose to create a unique identity specific to the course in order to protect your privacy.
+
+We will use the open source wiki XWiki as the class management system. XWiki accounts will need to be created by all students.
 
 Class Meetings & Important Dates
 
