@@ -7,9 +7,9 @@ All original content is licensed under a Creative Commons Attribution 4.0 Intern
 # Course Syllabus
 ## Summary
 
-[Credit hours]
-&lbrack; Days/times
-Complete Academic Calendar: http://www.albany.edu/registrar/fall-2016-academic-calendar.php
+[Credit hours] 
+[Days/times] 
+[Complete Academic Calendar]
 Location: BB 221
 Instructor: Patrick Masson
 Office location: BA 356 & teleconference
