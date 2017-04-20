@@ -7,8 +7,8 @@ All original content is licensed under a Creative Commons Attribution 4.0 Intern
 # Course Syllabus
 ## Summary
 
-[Credit hours] 
-[Days/times] 
+[Credit hours]  
+[Days/times]   
 [Complete Academic Calendar]
 Location: BB 221
 Instructor: Patrick Masson
