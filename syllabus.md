@@ -7,14 +7,15 @@ All original content is licensed under a Creative Commons Attribution 4.0 Intern
 # Course Syllabus
 ## Summary
 
-[Credit hours]  
-[Days/times]   
-[Complete Academic Calendar]  
-[Location: Room]  
-[Instructor: ]  
-[Office location:]  
-[Office hours:]  
-[Contact information: email, phone]  
+[CREDIT HOURS]  
+[DAYS / TIMES]   
+[COMPLETE ACADEMIC CALENDAR]  
+[BUILDING / ROOM]  
+[INSTRUCTOR]  
+[INSTRUCTOR OFFICE LOCATION]  
+[OFFICE HOURS]  
+[EMAIL]  
+[PHONE]  
 
 ## Course Goals
 
@@ -56,7 +57,7 @@ Direct links will be made available in XWiki.
 [The Cathedral and the Bazaar: Musing on Linux and Open Source by an Accidental Revolutionary](http://shop.oreilly.com/product/9780596001087.do)  
 Eric S. Raymond; O’Reilly (January, 2001).  
 
-Producing Open Source Software: How to Run a Successful Free Software Project  
+[Producing Open Source Software: How to Run a Successful Free Software Project](http://producingoss.com/)  
 Karl Fogel; Publisher: O’Reilly (October, 2005).  
 
 Other readings will be added as the semester progresses.  
@@ -67,35 +68,25 @@ You will be participating in a current open project. Relevant accounts (email li
 
 We will use the open source wiki XWiki as the class management system. XWiki accounts will need to be created by all students.
 
-Class Meetings & Important Dates
+## Class Meetings & Important Dates
 
-Complete Academic Calendar: http://www.albany.edu/registrar/fall-2016-academic-calendar.php
+Complete Academic Calendar:
 
-    Thu, September 1, 2016: First class meeting
-    Thu, September 8, 2016: Regular class meeting
-    Thu, September 15, 2016: Regular class meeting
-    Thu, September 22, 2016: Regular class meeting
-    Thu, September 29, 2016: Regular class meeting
-    Thu, October 6, 2016: Regular class meeting
-    Thu, October 13, 2016: Regular class meeting
-    Thu, October 20, 2016: Regular class meeting
-    Thu, October 27, 2016: Regular class meeting
-    Thu, November 3, 2016: Regular class meeting
-    Thu, November 10, 2016: Regular class meeting
-    Thu, November 17, 2016: NO CLASS MEETING - Instructor absent
-    Thu, November 24, 2016: NO CLASS MEETING - Thanksgiving Holiday
-    Thu, December 1, 2016: Regular class meeting
-    Thu, December 8, 2016: Last class meeting
-    Tue, December 20, 2016: Last day of the semester (All work must be submitted by midnight)
+1. [DATE]: First class meeting
+2. [DATE]: Regular class meeting
+3. [DATE]: ...
+4. [DATE]: Last class meeting
 
-Instructional Methodology: Team-based learning
+## Instructional Methodology: Team-based learning
 
-The majority of work in this class will be performed in teams. On the first day of the course, you will be assigned to a team that will work together throughout the semester. Course grades will be influenced by team performance on all class assignments. Our class will be structured in a collaborative environment, where all students will share the accomplishments and frustrations of peer-to-peer participation, and will receive the appropriate credit for their efforts. Individuals' contributions to team work will be assessed by his or her teammates during the semester, as well as the instructors.
+    This course is developed using "[Team-Based Learning](http://www.teambasedlearning.org/definition/)," with support from [The Institute for Teaching, Learning and Academic Leadership](http://www.itlal.org/) (ITLAL) 
+
+The majority of work in this class will be performed in teams. On the first day of the course, students will be assigned to a team that will work together throughout the semester. Course grades will be influenced by team performance on all class assignments. The class will be structured in a collaborative environment, where all students will share the accomplishments and frustrations of peer-to-peer participation, and will receive the appropriate credit for their efforts. Individual's contributions to team work will be assessed by his or her teammates during the semester, as well as the instructors.
 
 A typical class session will unfold in the following steps:
 
-    Preparation: You will complete specified readings before the class. Reading assignments will be posted on XWiki. All reading assignments must be completed before the next class in order to actively participate with your team and across teams in the class.
-    Readiness Assessment Tests (RATs): During this course you will be given several Readiness Assessment Tests. These tests will be similar to quizzes, but with several important distinctions. There will be three components to them, as well as a flexible method of answering the items on the test:
+**Preparation**: You will complete specified readings before the class. Reading assignments will be posted on a [SHARED PLATFORM]. All reading assignments must be completed before the next class in order to actively participate with your team and across teams in the class.  
+**Readiness Assessment Tests (RATs)**: During this course you will be given several Readiness Assessment Tests. These tests will be similar to quizzes, but with several important distinctions. There will be three components to them, as well as a flexible method of answering the items on the test:
         An individual part (iRAT)--each student will answer the questions on the test individually.
         A team part (tRAT)-- after completing the individual component, you will work in your teams to come up with a group answer to the test.
         Scoring for the iRAT: 10 questions, 5pt.s each for a total of 50pt.s
