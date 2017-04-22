@@ -7,15 +7,17 @@ All original content is licensed under a Creative Commons Attribution 4.0 Intern
 # Course Syllabus
 ## Summary
 
-[CREDIT HOURS]  
-[DAYS / TIMES]   
-[COMPLETE ACADEMIC CALENDAR]  
-[BUILDING / ROOM]  
-[INSTRUCTOR]  
-[INSTRUCTOR OFFICE LOCATION]  
-[OFFICE HOURS]  
-[EMAIL]  
-[PHONE]  
+[$CREDIT_HOURS]  
+[$DAYS_OF_COURSE]  
+[$TIMES_OF_COURSE]  
+[$COMPLETE_ACADEMIC_CALENDAR]  
+[$BUILDING]  
+[$ROOM]  
+[$INSTRUCTOR_NAME]  
+[$INSTRUCTOR_OFFICE_LOCATION]  
+[$OFFICE_HOURS]  
+[$EMAIL]  
+[$PHONE]  
 
 ## Course Goals
 
@@ -64,7 +66,7 @@ Other readings will be added as the semester progresses.
 
 ## Additional Materials  
 
-You will be participating in a current open project. Relevant accounts (email lists, wiki, etc.) will need to be created by all students. You may choose to create a unique identity specific to the course in order to protect your privacy.
+Students will be participating in a current open project. Relevant accounts (email lists, wiki, etc.) will need to be created by all students. You may choose to create a unique identity specific to the course in order to protect your privacy.
 
 We will use the open source wiki XWiki as the class management system. XWiki accounts will need to be created by all students.
 
@@ -72,14 +74,14 @@ We will use the open source wiki XWiki as the class management system. XWiki acc
 
 Complete Academic Calendar:
 
-1. [DATE]: First class meeting
-2. [DATE]: Regular class meeting
-3. [DATE]: ...
-4. [DATE]: Last class meeting
+1. [$DATE]: First class meeting
+2. [$DATE]: Regular class meeting
+3. [$DATE]: ...
+4. [$DATE]: Last class meeting
 
 ## Instructional Methodology: Team-based learning
 
-    This course is developed using "[Team-Based Learning](http://www.teambasedlearning.org/definition/)," with support from [The Institute for Teaching, Learning and Academic Leadership](http://www.itlal.org/) (ITLAL) 
+''''This course is developed using "[Team-Based Learning](http://www.teambasedlearning.org/definition/)," with support from [The Institute for Teaching, Learning and Academic Leadership](http://www.itlal.org/) (ITLAL)''''
 
 The majority of work in this class will be performed in teams. On the first day of the course, students will be assigned to a team that will work together throughout the semester. Course grades will be influenced by team performance on all class assignments. The class will be structured in a collaborative environment, where all students will share the accomplishments and frustrations of peer-to-peer participation, and will receive the appropriate credit for their efforts. Individual's contributions to team work will be assessed by his or her teammates during the semester, as well as the instructors.
 
