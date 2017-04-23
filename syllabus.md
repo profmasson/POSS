@@ -1,6 +1,6 @@
 # Course Description
 
-This is a undergrad/graduate course introducing the principles & practices of open source software development & communities of practice: history, intellectual property rights, economics & business models, development models, and community standards. The course begins with a historical study of the emergence and maturity of open source software from a variety of influences: the computer industry, thought leaders, and cultural movements. From there the course then covers copyright/patents,/trademarks/licensing and basic concepts of contracts. The impact of open source development and adoption on economics & various business models, in particular clarifying the apparent contradiction between free flow of information and the funding & compensation of participants, will be explored. The operational and organizational aspects of open source communities are covered to help understand the motivations that drive authentic participation: community, collaboration, contribution and co-creation. Throughout the course, hands-on activities using open source technologies are performed in order to develop skills on the practices of participation.
+This is a undergrad/graduate course introducing the principles & practices of open source software development & communities of practice: history, intellectual property rights, economics & business models, development models, and community standards. The course begins with a historical study of the emergence and maturity of open source software from a variety of influences: the computer industry, thought leaders, and cultural movements. From there the course then covers copyright/patents,/trademarks/licensing and basic concepts of contracts. The impact of open source development and adoption on economics & various business models, in particular clarifying the apparent contradiction between free flow of information and the funding & compensation of participants, are explored. The operational and organizational aspects of open source communities are covered to help understand the motivations that drive authentic participation: community, collaboration, contribution and co-creation. Throughout the course, hands-on activities using open source technologies are performed in order to develop skills on the practices of participation.
 
 All original content is licensed under a Creative Commons Attribution 4.0 International License.
 
@@ -48,13 +48,13 @@ Students will come to understand open source as a licensing model for software t
 
 ## Coordination
 
-In this course, we will use XWiki, an open source wiki and social platform for information dissemination, collaboration, development and review. All information related to the course will be throughXWiki . This will include: assignments, announcements, forum discussion, evaluations, grades, etc.
+In this course, we use [$SHARED_PLATFORM], an open source platform for information dissemination, collaboration, development and review. All information related to the course is through [$SHARED_PLATFORM]. This includes: assignments, announcements, forum discussion, evaluations, grades, etc.  
 
 ## Readings
 
-Readings will be assigned from the following books.  
+Readings are assigned from the following books.  
 There is no need to buy any of the books, all the relevant sections are freely available online.  
-Direct links will be made available in XWiki.  
+Direct links are made available in [$SHARED_PLATFORM].  
 
 [The Cathedral and the Bazaar: Musing on Linux and Open Source by an Accidental Revolutionary](http://shop.oreilly.com/product/9780596001087.do)  
 Eric S. Raymond; O’Reilly (January, 2001).  
@@ -62,37 +62,39 @@ Eric S. Raymond; O’Reilly (January, 2001).
 [Producing Open Source Software: How to Run a Successful Free Software Project](http://producingoss.com/)  
 Karl Fogel; Publisher: O’Reilly (October, 2005).  
 
-Other readings will be added as the semester progresses.  
+Other readings may be added as the semester progresses.  
 
 ## Additional Materials  
 
-Students will be participating in a current open project. Relevant accounts (email lists, wiki, etc.) will need to be created by all students. You may choose to create a unique identity specific to the course in order to protect your privacy.
+Throughout the course students participate in a current open project. Relevant accounts (email lists, wiki, etc.) are needed (or need to be created) by all students. Students may choose to create a unique identity specific to the course in order to protect privacy. These private accounts will need to be shared with the instructor and classmates.
 
-We will use the open source wiki XWiki as the class management system. XWiki accounts will need to be created by all students.
+The course uses the open source platform [$SHARED_PLATFORM] as the class management system. [$SHARED_PLATFORM] accounts need to be created by all students.
 
 ## Class Meetings & Important Dates
 
 Complete Academic Calendar:
 
-1. [$DATE]: First class meeting
-2. [$DATE]: Regular class meeting
-3. [$DATE]: ...
-4. [$DATE]: Last class meeting
+1. [$DATE_FIRST_CLASS]: First class meeting
+2. [$DATE_SECOND_CLASS]: Regular class meeting
+3. [$DATE_NEXT_CLASS]: ...  
+4. [$DATE_NEXT_CLASS++]: ...
+5. [$DATE_LAST_CLAS]: Last class meeting
 
 ## Instructional Methodology: Team-based learning
 
-''''This course is developed using "[Team-Based Learning](http://www.teambasedlearning.org/definition/)," with support from [The Institute for Teaching, Learning and Academic Leadership](http://www.itlal.org/) (ITLAL)''''
+    This course is developed using "[Team-Based Learning](http://www.teambasedlearning.org/definition/)," with support from [The Institute for Teaching, Learning and Academic Leadership](http://www.itlal.org/) (ITLAL)
 
-The majority of work in this class will be performed in teams. On the first day of the course, students will be assigned to a team that will work together throughout the semester. Course grades will be influenced by team performance on all class assignments. The class will be structured in a collaborative environment, where all students will share the accomplishments and frustrations of peer-to-peer participation, and will receive the appropriate credit for their efforts. Individual's contributions to team work will be assessed by his or her teammates during the semester, as well as the instructors.
+The majority of work in this class is performed in teams. On the first day of the course, students are assigned to a team that works together throughout the semester. Course grades are influenced by team performance on all class assignments. The class is structured in a collaborative environment, where all students share the accomplishments and frustrations of peer-to-peer participation, and receive the appropriate credit for their efforts. An student's contributions to team work is assessed by his or her teammates during the semester, the instructors, as well as outcomes achieved throughout team-based activities.
 
-A typical class session will unfold in the following steps:
+A typical class session unfolds in the following steps:
 
-**Preparation**: You will complete specified readings before the class. Reading assignments will be posted on a [SHARED PLATFORM]. All reading assignments must be completed before the next class in order to actively participate with your team and across teams in the class.  
-**Readiness Assessment Tests (RATs)**: During this course you will be given several Readiness Assessment Tests. These tests will be similar to quizzes, but with several important distinctions. There will be three components to them, as well as a flexible method of answering the items on the test:
-        An individual part (iRAT)--each student will answer the questions on the test individually.
-        A team part (tRAT)-- after completing the individual component, you will work in your teams to come up with a group answer to the test.
-        Scoring for the iRAT: 10 questions, 5pt.s each for a total of 50pt.s
-        Scoring for the tRAT: 10 questions, 10pt.s each for a total of 100pt.s,
+**Preparation**: Students complete specified readings before the class. Reading assignments will be posted on a [$SHARED_PLATFORM]. All reading assignments must be completed before the next class in order to actively participate with your team and across teams in the class.  
+**Readiness Assessment Tests (RATs)**: During this course students are given several Readiness Assessment Tests. These tests are similar to quizzes, but with several important distinctions. There are three components to them, as well as a flexible method of answering the items on the test:
+- An individual part (iRAT)--each student will answer the questions on the test individually.
+- A team part (tRAT)-- after completing the individual component, you will work in your teams to come up with a group answer to the test.
+-- Scoring for the iRAT: 10 questions, 5pt.s each for a total of 50pt.s
+
+Scoring for the tRAT: 10 questions, 10pt.s each for a total of 100pt.s,
             Correct answer select on first try, 10pt.s
             Correct answer select on second try, 7pt.s
             Correct answer select on third try, 4pt.s
@@ -103,6 +105,8 @@ A typical class session will unfold in the following steps:
             Active participation will be the basis for evaluating in-class activities.
             After having discussed the topics inside each team, the conversation will be extended to cover the entire class.
             Peer Evaluation: You will have the chance to provide feedback to your team members on a regular basis throughout the semester. This will help everyone improve their skills and value peer-assessment practices. Specific details on peer-evaluation will be provided at the beginning of every class.
+            
+    *$SHARED_PLATFORM may be a wiki, discussion forum, Github/Gitlab, GoogleDocs, etc.
 
 Grading
 
